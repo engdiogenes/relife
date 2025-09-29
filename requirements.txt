@@ -1,0 +1,4 @@
+streamlit==1.33.0  # Ou a versão mais recente que você está usando e que funciona
+pandas==2.2.2     # Uma versão recente e estável
+numpy==1.26.4     # Compatível com pandas
+plotly==5.22.0    # Compatível com plotly.express e Streamlit
